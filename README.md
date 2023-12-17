@@ -26,7 +26,6 @@ The data has been preprocessed and prepared for machine learning.
 The Jupyter Notebook includes code for data exploration, which covers the following:
 
 - Data distribution analysis
-- Handling missing values
 - Crop distribution visualization
 - Feature correlations
 
